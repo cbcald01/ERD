@@ -14,7 +14,7 @@ Designed an Entity Relationship Diagram (ERD) to model key parts of Target's ret
 Database Design · ERD · Data Modeling
 
 ## ERD Screenshot
-*Diagram screenshot will be added here.*
+![Target Retail Database Entity Relationship Diagram](ERD.png)
 
 ## Project Link
 [View Target Retail ERD on GitHub](https://github.com/cbcald01/ERD)
