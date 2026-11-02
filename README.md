@@ -1,4 +1,4 @@
-# Target Retail Database — (ERD)
+# ERD - Target Retail Database
 
 ## Project Overview
 Designed an Entity Relationship Diagram (ERD) to model key parts of Target's retail operations, including stores, departments, employees, customers, orders, and inventory. The diagram shows how information is organized and how entities relate to one another in a retail database.
