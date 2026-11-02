@@ -15,6 +15,3 @@ Database Design · ERD · Data Modeling
 
 ## ERD Screenshot
 ![Target Retail Database Entity Relationship Diagram](ERD.png)
-
-## Project Link
-[View Target Retail ERD on GitHub](https://github.com/cbcald01/ERD)
